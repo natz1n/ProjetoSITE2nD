@@ -1,5 +1,14 @@
-body{
-    background-color: rgb(132, 169, 181);
-    font-family: Nunito;
-    
+*{
+    margin: 0px;
+    font-family: "Nunito";
+
 }
+#titulosuperior{
+    margin-left: 50px;
+    padding-top: 150px;
+    font-size: 75px;
+    letter-spacing: -1.5px;
+}
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
