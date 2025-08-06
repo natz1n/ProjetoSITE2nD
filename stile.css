@@ -1,7 +1,6 @@
 *{
     margin: 0px;
     font-family: "Nunito";
-
 }
 
 #titulosuperior{
@@ -46,4 +45,11 @@
 .spaninformativo{
     font-size: 20px;
     font-weight: normal;
+}
+
+#menuconteudo{
+    background-color: #ffffff;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
 }
